@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/jack0the0ripper" target="blank"><img src="https://img.shields.io/twitter/follow/jack0the0ripper?logo=twitter&style=for-the-badge" alt="jack0the0ripper" /></a> </p>
 
 
-- 📫 How to reach me **nasuhan.yunus.ozkaya@gmail.com**
+- 📫 How to reach me **soylerbatuhan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nyunus-ozkaya/](https://www.linkedin.com/in/nyunus-ozkaya/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/batuhan-söyler-2515b9271/](https://www.linkedin.com/in/batuhan-söyler-2515b9271/)
 
 - ⚡ Fun fact **Travelled over 30 country, married with a Pinay and I can speak 3 languages.**
 
