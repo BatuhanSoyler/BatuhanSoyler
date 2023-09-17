@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhansoyler&label=Profile%20views&color=0e75b6&style=flat" alt="batuhansoyler" /> </p>
 
-<p align="left"> <a href="https://twitter.com" target="blank"><img src="https://img.shields.io/twitter/follow/jack0the0ripper?logo=twitter&style=for-the-badge" alt="Batuhan SÖYLER" /></a> </p>
-
-
 - 📫 How to reach me **soylerbatuhan@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/batuhan-söyler-2515b9271/](https://www.linkedin.com/in/batuhan-söyler-2515b9271/)
