@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhansoyler&label=Profile%20views&color=0e75b6&style=flat" alt="batuhansoyler" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jack0the0ripper" target="blank"><img src="https://img.shields.io/twitter/follow/jack0the0ripper?logo=twitter&style=for-the-badge" alt="jack0the0ripper" /></a> </p>
+<p align="left"> <a href="https://twitter.com" target="blank"><img src="https://img.shields.io/twitter/follow/jack0the0ripper?logo=twitter&style=for-the-badge" alt="Batuhan SÖYLER" /></a> </p>
 
 
 - 📫 How to reach me **soylerbatuhan@gmail.com**
