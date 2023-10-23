@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/batuhan-söyler-2515b9271/](https://www.linkedin.com/in/batuhan-söyler-2515b9271/)
 
-- ⚡ Fun fact **Travelled over 30 country, married with a Pinay and I can speak 3 languages.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jack0the0ripper" height="30" width="40" /></a>
