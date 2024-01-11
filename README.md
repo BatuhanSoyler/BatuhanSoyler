@@ -1,14 +1,19 @@
 <div align="center">
   <h2 align="center">Hi 👋 I'm Batuhan SÖYLER</h2>
   <h3 align="center">Fullstack Dev</h3>
-  <p align="right"><img align="right" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 500px" /></p>
   <p align="left">-🌱 I'm currently working on .Net and other web-related programming languages.</p>
-  <p align="left">-🤯 Know about my experiences <a href="https://www.linkedin.com/in/batuhan-söyler-2515b9271" target="_blank"> Linkedin -> Batuhan SÖYLER</a></p>
+</div>
+
+<br />
+
+<div align="center>
+    <p align="right"><img align="right" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 500px" /></p>
 </div>
 
 <br/> 
 
 ## My Skill Set  
+
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
