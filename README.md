@@ -2,9 +2,6 @@
   <h2 align="center">Hi 👋 I'm Batuhan SÖYLER</h2>
   <h3 align="center">Fullstack Dev</h3>
 </div>
-
-<br />
-
 <div align="center>
     <p align="right"><img align="right" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 500px" /></p>
 </div>
