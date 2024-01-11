@@ -7,16 +7,14 @@
 </div>
 
 <div align="center">
-  <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=batuhansoyler&show_icons=true&count_private=true&hide_border=true"/>
+  <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=batuhansoyler&theme=dark&show_icons=true"/>
   <img align="top-right" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 300px"/>
 </div>
 
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhansoyler" />-->
 
 <br/> 
-<br/> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhansoyler&hide_progress=true)
+
 
 ## My Skill Set  
 
