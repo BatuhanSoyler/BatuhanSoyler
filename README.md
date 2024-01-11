@@ -1,13 +1,17 @@
 <div align="center">
-  <h2 align="center">Hi 👋 I'm Batuhan SÖYLER</h2>
+  <h2 align="center">Hi 👋 I'm Batuhan SÖYLER 
+    <img src="https://komarev.com/ghpvc/?username=batuhansoyler&&style=flat-square"/>
+  </h2>
   <h3 align="center">Fullstack Dev</h3>
+  <a href="https://www.buymeacoffee.com/soylerbatuhan" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"/></a>
 </div>
 
-<div align="center>
-  <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=batuhansoyler&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-  <div align="right"><img align="right" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 500px" /></div>
+<div align="center">
+  <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=batuhansoyler&show_icons=true&count_private=true&hide_border=true"/>
+  <img align="top-right" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 300px"/>
 </div>
 
+<br/> 
 <br/> 
 
 ## My Skill Set  
@@ -56,40 +60,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
 
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=batuhansoyler&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=3f2y9dmwezwb36chbphrn5v09&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3f2y9dmwezwb36chbphrn5v09&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=batuhansoyler&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/soylerbatuhan" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
