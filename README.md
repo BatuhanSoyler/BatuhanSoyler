@@ -11,6 +11,8 @@
   <img align="top-right" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 300px"/>
 </div>
 
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhansoyler" />-->
+
 <br/> 
 <br/> 
 
