@@ -1,7 +1,6 @@
 <div align="center">
   <h2 align="center">Hi 👋 I'm Batuhan SÖYLER</h2>
   <h3 align="center">Fullstack Dev</h3>
-  <p align="left">-🌱 I'm currently working on .Net and other web-related programming languages.</p>
 </div>
 
 <br />
