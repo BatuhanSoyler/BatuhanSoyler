@@ -2,8 +2,10 @@
   <h2 align="center">Hi 👋 I'm Batuhan SÖYLER</h2>
   <h3 align="center">Fullstack Dev</h3>
 </div>
+
 <div align="center>
-    <p align="right"><img align="right" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 500px" /></p>
+  <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=batuhansoyler&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+  <div align="right"><img align="right" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 500px" /></div>
 </div>
 
 <br/> 
@@ -91,6 +93,3 @@ If things goes well, this section should automatically be replaced by a list of 
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
