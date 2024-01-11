@@ -1,3 +1,4 @@
+<div>
 <div align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" style="width: 400px" />
 </div>  
@@ -11,7 +12,7 @@
 
 -  🤯 Know about my experiences [https://www.linkedin.com/in/batuhan-söyler-2515b9271/](https://www.linkedin.com/in/batuhan-söyler-2515b9271/)  
 </div>
-
+</div>
 <br/>  
 
 
