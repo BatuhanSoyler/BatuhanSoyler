@@ -1,11 +1,7 @@
-
+### <p align="left">Hi 👋 I'm Batuhan SÖYLER, a full-time full-stack  developer 👨‍💻 working remotely since 2016🚀</p>  
 <p align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" style="width: 400px" />
 </p>  
-  
-
-### <p align="left">Hi 👋 I'm Batuhan SÖYLER, a full-time full-stack  developer 👨‍💻 working remotely since 2016🚀</p>  
-  
 <p align="left">
 - 🌱 I'm currently working on .Net and other web-related programming languages.  
   
