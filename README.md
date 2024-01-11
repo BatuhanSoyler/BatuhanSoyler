@@ -1,16 +1,16 @@
-<div align="center">
+<div align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" style="width: 400px" />
 </div>  
   
 
-### <div align="center">I'm Batuhan SÖYLER, a full-time full-stack  developer 👨‍💻 working remotely since 2016🚀</div>  
+### <div align="left">Hi 👋 I'm Batuhan SÖYLER, a full-time full-stack  developer 👨‍💻 working remotely since 2016🚀</div>  
   
-
+<div align="left">
 - 🌱 I'm currently working on .Net and other web-related programming languages.  
   
 
 -  🤯 Know about my experiences [https://www.linkedin.com/in/batuhan-söyler-2515b9271/](https://www.linkedin.com/in/batuhan-söyler-2515b9271/)  
-  
+</div>
 
 <br/>  
 
