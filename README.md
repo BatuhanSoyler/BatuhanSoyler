@@ -4,14 +4,15 @@
 </p>  
   
 
-### <div align="left">Hi 👋 I'm Batuhan SÖYLER, a full-time full-stack  developer 👨‍💻 working remotely since 2016🚀</p>  
+### <p align="left">Hi 👋 I'm Batuhan SÖYLER, a full-time full-stack  developer 👨‍💻 working remotely since 2016🚀</p>  
   
-<div align="left">
+<p align="left">
 - 🌱 I'm currently working on .Net and other web-related programming languages.  
   
 
--  🤯 Know about my experiences [https://www.linkedin.com/in/batuhan-söyler-2515b9271/](https://www.linkedin.com/in/batuhan-söyler-2515b9271/)  
-</div>
+-  🤯 Know about my experiences [https://www.linkedin.com/in/batuhan-söyler-2515b9271/](https://www.linkedin.com/in/batuhan-söyler-2515b9271/)
+-  
+</p>
 
 <br/>  
 
