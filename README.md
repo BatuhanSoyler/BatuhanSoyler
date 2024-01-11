@@ -1,5 +1,6 @@
-### <p align="left">Hi 👋 I'm Batuhan SÖYLER, a full-time full-stack  developer 👨‍💻 working remotely since 2016🚀</p>  
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" style="width: 400px" />
+<h2 align="center">Hi 👋 I'm Batuhan SÖYLER</h2>
+<h3 align="center">Fullstack Dev</h3>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" style="width: 500px" />
 <p align="left">- 🌱 I'm currently working on .Net and other web-related programming languages. </p>
 <p align="left">-🤯 Know about my experiences [https://www.linkedin.com/in/batuhan-söyler-2515b9271/](https://www.linkedin.com/in/batuhan-söyler-2515b9271/)</p>
 <br/>  
