@@ -3,7 +3,7 @@
 <img align="right" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 600px" />
 <p align="left">- 🌱 I'm currently working on .Net and other web-related programming languages. </p>
 <p align="left">-🤯 Know about my experiences <a href="https://www.linkedin.com/in/batuhan-söyler-2515b9271" target="_blank"> Linkedin -> Batuhan SÖYLER</a></p>
-<br/>  
+<br/></br>  
 
 
 ## My Skill Set  
