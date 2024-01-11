@@ -7,8 +7,9 @@
 </div>
 
 <div align="center">
-  <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=batuhansoyler&theme=dark&show_icons=true"/>
-  <img align="top-right" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 300px"/>
+  <img align="top-left" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 300px"/>
+  <img align="top-right" src="https://github-readme-stats.vercel.app/api?username=batuhansoyler&theme=dark&show_icons=true"/>
+
 </div>
 
 <!-- <img src="http://ionicabizau.github.io/github-profile-languages/?user=JmKanmo" />  -->
