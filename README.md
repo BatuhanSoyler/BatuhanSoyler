@@ -8,7 +8,7 @@
 
 <div align="center">
   <p>I am currently working at the Ministry of Justice on legal and personnel practices in Turkey.</p>
-  <p>I use the programming languages listed below when needed, but my language is C# programming language.</p>
+  <p>I use the following programming languages when necessary, and the language I specialize in is C# programming language.</p>
 </div>
 
 <div align="center">
