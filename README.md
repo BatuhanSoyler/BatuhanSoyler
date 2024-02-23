@@ -7,11 +7,6 @@
 </div>
 
 <div align="center">
-  <p>I am currently working at the Ministry of Justice on legal and personnel practices in Turkey.</p>
-  <p>I use the following programming languages when necessary, and the language I specialize in is C# programming language.</p>
-</div>
-
-<div align="center">
   <img align="top-left" src="https://i.imgur.com/PxuIRdE.gif" alt="Coding" style="width: 300px"/>
   <img align="top-right" src="https://github-readme-stats.vercel.app/api?username=batuhansoyler&theme=default&show_icons=true&hide_border=true"/>
 
